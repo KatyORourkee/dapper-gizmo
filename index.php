@@ -10,7 +10,7 @@
     <p>Welcome! This site is a personal project to learn about creating websites from scratch using html, css, and php.</p>
 
     <?php 
-        echo "Hello PHP";
+        echo "Hello PHP!";
     ?>
 </body>
 </html>
